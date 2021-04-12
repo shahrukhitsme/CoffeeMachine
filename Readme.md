@@ -1,3 +1,6 @@
+Class Diagram of Project:
+![Class Diagram of Project](https://github.com/shahrukhitsme/CoffeeMachine/blob/master/CoffeeMachine.jpg)
+
 Import the project in eclipse, and run the project.
 
 To change the input, provide input in input.txt file. <br />
