@@ -1,4 +1,6 @@
-Provide input in input.txt file. <br />
+Import the project in eclipse, and run the project.
+
+To change the input, provide input in input.txt file. <br />
 First line has the number of test cases (Test Cases: 4)<br />
 Then there will be blocks of lines for each test case<br />
 In each block:<br />
