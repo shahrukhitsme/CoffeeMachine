@@ -1,0 +1,65 @@
+Test Cases: 4
+Number of Outlets: 4
+Items in Stock: 5
+hot_water: 500
+hot_milk: 500
+ginger_syrup: 100
+sugar_syrup: 100
+tea_leaves_syrup: 100
+Number of beverage requests: 4
+Outlet: 1
+Drink: Coffee
+Outlet: 2
+Drink: Green Tea
+Outlet: 3
+Drink: Tea
+Outlet: 1
+Drink: Coffee
+Number of Outlets: 4
+Items in Stock: 5
+hot_water: 500
+hot_milk: 500
+ginger_syrup: 100
+sugar_syrup: 100
+tea_leaves_syrup: 100
+Number of beverage requests: 4
+Outlet: 1
+Drink: Coffee
+Outlet: 2
+Drink: Green Tea
+Outlet: 3
+Drink: Tea
+Outlet: 1
+Drink: Coffee
+Number of Outlets: 4
+Items in Stock: 5
+hot_water: 500
+hot_milk: 500
+ginger_syrup: 100
+sugar_syrup: 100
+tea_leaves_syrup: 100
+Number of beverage requests: 4
+Outlet: 1
+Drink: Coffee
+Outlet: 2
+Drink: Coffee
+Outlet: 3
+Drink: Coffee
+Outlet: 1
+Drink: Coffee
+Number of Outlets: 4
+Items in Stock: 5
+hot_water: 500
+hot_milk: 500
+ginger_syrup: 100
+sugar_syrup: 100
+tea_leaves_syrup: 100
+Number of beverage requests: 4
+Outlet: 1
+Drink: Coffee
+Outlet: 1
+Drink: Green Tea
+Outlet: 1
+Drink: Tea
+Outlet: 1
+Drink: Coffee
